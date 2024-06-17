@@ -22,4 +22,6 @@ This project allows users to convert text into speech using their web browser. I
 
 ### Demo :
 #### Output Example: After entering text and selecting a voice, the output will be the spoken version of the entered text.
-<img src = 
+<img src = "Output1.png" alt = "output">
+<br>
+<img src = "Output2.png" alt = "output">
