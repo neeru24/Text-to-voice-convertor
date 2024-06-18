@@ -4,7 +4,7 @@ This project allows users to convert text into speech using their web browser. I
 ### Features : 
 1. Text Input: Users can input any text into the provided textarea. <br>
 2. Voice Selection: Choose from available voices to customize how the text is spoken.  <br>
-3. Playback Control: Click the "Listen" button to hear the selected text spoken aloud.  <br>
+3. Playback Control: Click the "Listen" button to hear the text spoken aloud.  <br>
 
 ### Getting Started :
 #### To use the Text to Voice Converter:
