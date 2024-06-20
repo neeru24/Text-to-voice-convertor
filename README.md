@@ -1,5 +1,5 @@
 ## Text to Voice Converter
-This project allows users to convert text into speech using their web browser. It provides a simple interface where users can select different voices and listen to the spoken version of entered text.
+This project allows users to convert text into speech using their web browser. It provides a simple interface where users can select different voices and listen to the spoken version of entered text. 
 
 ### Features : 
 1. Text Input: Users can input any text into the provided textarea. <br>
