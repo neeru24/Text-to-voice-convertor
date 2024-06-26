@@ -1,8 +1,6 @@
 ## Text to Voice Converter
 This project allows users to convert text into speech where users can select different voices and listen to the spoken version of entered text. 
 
-### Check it out: <a href="https://text2voice-neeru-g.netlify.app/"> 
-
 ### Features : 
 1. Text Input: Users can input any text into the provided textarea. <br>
 2. Voice Selection: Choose from available voices to customize how the text is spoken.  <br>
