@@ -13,7 +13,7 @@ This project allows users to convert text into speech where users can select dif
 2. Open index.html in your web browser.
 3. Enter text into the textarea.
 4. Select a voice from the dropdown list.
-5. Click the "Listen" button to hear the spoken output.
+5. Click the "Listen" button to hear the spoken output of the entered text.
    
 ### Technologies Used :
 1. HTML
